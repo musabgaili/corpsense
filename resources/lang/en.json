@@ -1,0 +1,41 @@
+{
+    "Call Us Now": "",
+    "Improve crop health and productivity for farmers.": {
+        "l": "Improve crop health and productivity for farmers.",
+        "l1": "Digital platform connected to the Internet of Things technology that provides weather forecasts in order to know weather risks, aiming to help farmers make immediate decisions"
+    },
+    "Soil Health Improvement": {
+        "l": "Soil Health Improvement",
+        "l1": "Sustainable farming practices lead to improve soil health and fertility"
+    },
+    "Minimized Chemical Usage": {
+        "l": "Minimized Chemical Usage",
+        "l1": "The platform enables farmers to precisely apply fertilizers and pesticides."
+    },
+    "Reduction in Water Usage": {
+        "l": "Reduction in Water Usage",
+        "l1": "Technology to optimize irrigation practices"
+    },
+    "Waste Reduction": {
+        "l": "Waste Reduction",
+        "l1": "Crop Sense techology helps to reduce food waste"
+    },
+    "Future Technology – Satellite & Remote Sensing": {
+        "l": "Future Technology – Satellite & Remote Sensing",
+        "l1": "The system utilizes satellite imagery and remote sensing technologies such as NDVI and radar. This provides data on crop health, weather conditions, crop yield, field activities, elevation, and soil moisture."
+    },
+    "How it works": {
+        "l": "How it works",
+        "l1": "Future Technology – Satellite & Remote Sensing",
+        "l2": "The system utilizes satellite imagery and remote sensing technologies such as NDVI and radar. This provides data on crop health, weather conditions, crop yield, field activities, elevation, and soil moisture.",
+        "1": "Near real-time data ",
+        "1-1": "Providing farmers with near real-time data on the condition of the trees, vegetation cover, harvest, Crop yield",
+        "2":"Satellite and Drones",
+        "2-1":"Aerial survey and data capture",
+        "2-2" : "analysis and algorithms",
+        "2-3": "Providing information",
+
+        "3": "Precise AI analytics based on high-quality satellite images,",
+        "3-1": "Analysing images using artificial intelligence (machine learning) technology to identify pests that affect agricultural crops in order to better manage pests and learn the best ways to combat them."
+    }
+}
