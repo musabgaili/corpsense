@@ -55,8 +55,8 @@
                         <li class="nav-item px-2"><a class="nav-link fw-medium"
                                 href="#Opportuanities">Opportunities</a></li>
                         {{-- <li class="nav-item px-2"><a class="nav-link fw-medium" href="#testimonial">Testimonial</a></li> --}}
-                        {{-- <li class="nav-item px-2"><a class="nav-link fw-medium" href="#invest">Invest</a></li> --}}
                         <li class="nav-item px-2"><a class="nav-link fw-medium" href="#contact">Contact </a></li>
+                        <li class="nav-item px-2"><a class="nav-link fw-medium btn btn-success" href="https://app.cropsense.xyz">Login</a></li>
                     </ul>
                     {{-- <form class="d-flex">
               <button class="btn btn-lg btn-dark bg-gradient order-0" type="submit">Sign Up</button>
