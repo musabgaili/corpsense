@@ -268,7 +268,7 @@
         <!-- <section> begin ============================-->
         <section class="z-index-1 cta">
 
-            <div class="container">
+            {{-- <div class="container">
                 <div class="row flex-center">
                     <div class="col-8">
                         <div class="card shadow h-100 py-5">
@@ -296,7 +296,47 @@
                     </div>
                 </div>
             </div>
-            <!-- end of .container-->
+            <!-- end of .container--> --}}
+
+            <div class="container py-5">
+                <div class="row g-4">
+                    <!-- Main Card -->
+                    <div class="col-12 col-lg-8">
+                        <div class="card shadow h-100">
+                            <div class="card-body text-center d-flex flex-column justify-content-center py-4 py-md-5">
+                                <h1 class="fw-semibold mb-4">
+                                    The future of
+                                    <span class="text-success">Crops</span>
+                                    is CropSense
+                                </h1>
+                                <div>
+                                    <a class="btn btn-lg btn-success px-4 px-md-6" href="tel:+966544615194" role="button">
+                                        Call Us Now
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Contact Card -->
+                    <div class="col-12 col-lg-4">
+                        <div class="card bg-success shadow h-100">
+                            <div class="card-body p-4">
+                                <h5 class="text-white mb-3">Email Us</h5>
+                                <p class="mb-3 text-white">Write email to us</p>
+                                <a href="mailto:info@cropsense.xyz" class="btn btn-light text-success d-inline-flex align-items-center">
+                                    <svg class="bi bi-person me-2" xmlns="http://www.w3.org/2000/svg" width="16"
+                                        height="16" fill="#76C279" viewBox="0 0 16 16">
+                                        <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z">
+                                        </path>
+                                    </svg>
+                                    info@cropsense.xyz
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         </section>
         <!-- <section> close ============================-->
